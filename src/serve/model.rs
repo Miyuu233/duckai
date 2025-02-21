@@ -78,6 +78,7 @@ where
         "claude-3-haiku" => "claude-3-haiku-20240307",
         "llama-3.3-70b" => "meta-llama/Meta-Llama-3.3-70B-Instruct-Turbo",
         "o3-mini" => "o3-mini",
+        "mistral-small-latest" => "mistralai/Mistral-Small-24B-Instruct-2501",
         _ => "gpt-4o-mini",
     };
 
